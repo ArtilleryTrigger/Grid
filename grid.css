@@ -1,0 +1,9 @@
+#container{
+    display: grid;
+    grid-template-columns: 150px 300px 200px;
+    grid-template-rows: 100px 500px 100px;
+}
+.content{
+    background-color: brown;
+    border: 1px solid black;
+}
